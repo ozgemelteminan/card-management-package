@@ -12,7 +12,7 @@ MerchantApp.Tests/
 │
 ├── MerchantApp.Tests.csproj     # Test project definition
 ├── ServiceSmokeTests.cs         # General smoke tests
-├── Class1.cs                    # Template/example class (kullanılmıyorsa silebilirsin)
+├── Class1.cs                    # Template/example class 
 └── Tests/                       # Main test directory
     ├── MerchantAuthServiceTests.cs
     ├── QrServiceTests.cs
